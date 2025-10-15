@@ -45,8 +45,8 @@ Using **Python, pandas, seaborn, and matplotlib**, the notebook performs **data 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
-   cd <repo-name>
+   git clone [https://github.com/<your-username>/<repo-name>.git](https://github.com/MaafiaTroodon/titanic-survival-analysis.git)
+   cd titanic-survival-analysis
    ```
 
 2. **Create and activate a virtual environment:**
